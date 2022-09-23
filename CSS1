@@ -1,0 +1,238 @@
+
+/* Header */
+.logo-image{
+    width: 1420px;
+    height: 72px;
+    margin-top: -8px;
+    text-align: center;
+    border-color: #F3F4F7;
+    border-style: solid;
+    background-color: #F3F4F7;
+}
+
+.parent {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+.logo {
+    position: relative;
+    top: -8px;
+    left: 520px;
+    height: 70px;
+    border-style: solid;
+    border-color: #F3F4F7;
+    border-top: 10px;
+    z-index: 30;
+}
+
+.menu {
+    position: relative;
+    top: -8px;
+    left: 0;
+    height: 70px;
+    border: #F3F4F7;
+    border-style: solid;
+    z-index: 20;
+}
+
+.baggrund {
+    position: absolute;
+    width: 1383px;
+    top: -8px;
+    display: flex;
+    left: 40px;
+    height: 76px;
+    z-index: 10;
+}
+
+.medsøg {
+    position: absolute;
+    height: 70px;
+    top: -9px;
+    right: 10px;
+    z-index: 160;
+}
+
+
+/* Images */
+.image1 {
+    height: auto;
+    width: auto;
+    margin-top: 0px;
+    line-height: 75px;
+}
+
+.image2 {
+    height: 500px;
+    width: 500px;
+    float: left;
+    margin: 90px;
+    margin-top: 50px;
+}
+
+.stock {
+    height: 444px;
+    width: 530px;
+    margin-left: 115px;
+    border: #252525;
+    border-style: solid;
+}
+
+.footer {
+    width: 100%;
+}
+
+/* H1 */
+h1 {
+    font-size: 65px;
+    font-family: Arial, Helvetica, sans-serif;
+    float: right;
+    margin-right: 410px;
+    margin-top: 60px;
+    color: #252525;
+}
+
+/* Paragraf */
+p {
+    height: 400px;
+    width: 600px;
+    display: block;
+    float: right;
+    margin-right: 140px;
+    margin-top: 0px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #252525;
+}
+
+.p2 {
+    border: #252525;
+    border-style: solid;
+    width: 643px;
+    height: 444px;
+    margin-right: 124px;
+    text-align: center;
+}
+
+/* Border */ 
+hr {
+    border: solid;
+    border-style: solid;
+    border-bottom: 1px;
+    width: 1250px;
+    color: transparent;
+}
+
+.mellemrum {
+    border: solid;
+    border-style: solid;
+    border-bottom: 1px;
+    width: 1200px;
+    color: transparent;
+}
+
+.mellemrum2 {
+    border: solid;
+    border-style: solid;
+    border-bottom: 1px;
+    width: 1200px;
+    color: transparent;
+}
+
+/* Klub-knapper */
+.image3 {
+    height: 280px;
+    width: 280px;
+    float: right;
+    display: block;
+    margin: auto;
+    margin-left: auto;
+    margin-right: 100px;
+}
+
+.image4 {
+    height: 280px;
+    width: 280px;
+    float: right;
+    display: block;
+    margin: auto;
+    margin-left: auto;
+    margin-right: 35px;
+}
+
+.image5 {
+    height: 280px;
+    width: 280px;
+    float: left;
+    display: block;
+    margin: auto;
+    margin-left: 100px;
+    margin-right: auto;
+}
+
+.image6 {
+    height: 280px;
+    width: 280px;
+    float: left;
+    display: block;
+    margin: auto;
+    margin-left: 35px;
+    margin-right: auto;
+}
+
+.image7 {
+    height: 280px;
+    width: 280px;
+    float: right;
+    display: block;
+    margin: auto;
+    margin-left: auto;
+    margin-right: 100px;
+}
+
+.image8 {
+    height: 280px;
+    width: 280px;
+    float: right;
+    display: block;
+    margin: auto;
+    margin-left: auto;
+    margin-right: 35px;
+}
+
+.image9 {
+    height: 280px;
+    width: 280px;
+    float: left;
+    display: block;
+    margin: auto;
+    margin-left: 100px;
+    margin-right: auto;
+}
+
+.image10 {
+    height: 280px;
+    width: 280px;
+    float: left;
+    display: block;
+    margin: auto;
+    margin-left: 35px;
+    margin-right: auto;
+}
+
+/* H1 - News and events + H3 Løbeklubben */
+.NEWS {
+    float: left;
+    margin-left: 120px;
+    text-size-adjust: 50px;
+    font-size: 65px;
+}
+
+h3 {
+  display: inline-block;
+  text-align: center;
+  font-size: 20px;  
+  font-family: Arial, Helvetica, sans-serif;
+}
