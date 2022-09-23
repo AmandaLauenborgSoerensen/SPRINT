@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="sprint.css">
+    <title>Løbeklubben</title>
+
+</head>
+<body>
+    <div class="parent">
+        <img class="menu" src="menu.png" />
+        <img class="logo" src="logo.png" />    
+        <img class="medsøg" src="medsøg.png" />
+        <img class="baggrund" src="fuldgrå.png" />
+</div>
+
+    </header>
+    <!-- Billede -->
+    <div class="container">
+        <img src="thumbnail_lobe-2.jpeg" alt="mand der løber" style="width:100%;">
+        <h1 class="top-right">Løbeklubben</h1>
+        <p class="tid">Mandag, Onsdag, Fredag kl 15</p>
+        <button class="tilmeldbutton" href="tilmeld">Tilmeld</button>
+    </div>
+
+    <!-- Grid Layout -->
+    <div class="grid-container">
+        <div class="grid-item"><h2>Velkommen til Løbeklubben</h2>
+            <p>Hej, vi alle her i løbeklubben siger velkommen til dig. Vi løber hver mandag, onsdag og fredag kl. 15. <br>
+                Vi mødes på skolen, Ringvej Syd 104, og hver dag er der en ny i klubben, som får lov til at bestemme, hvilken rute vi skal løbe. <br> I klubben vægter vi også meget, at vi hver især bliver udfordret, for hver gang vi løber sammen, om det så er på den ene eller anden måde.<br> Vi er typisk 10 til hver løbetræning, og deler os derfor i 2 grupper i 2 forskellige paces <br><br> Om Mandagen vil der altid være intervalløb, og vi prøver altid at lave intervaltræningen spændende og sjov, med fokus på kortere intervaller.<br> Vi håber meget på at se dig!<br>
+            </p>
+            <br>
+            <button class="tilmeldbutton1" href="tilmeld">Tilmeld</button>
+        </div>
+            <div class="grid-item1"><h3>Medlemmer</h3>
+                <div class="card">
+                <img src="thumbnail_lars.jpeg" alt="Lars Eskildsen" style="width:100%">
+                <h3>Lars Eskildsen</h3>
+                <p class="title">Multimediedesign, 4 semester, Admin</p>
+                </div>
+            </div>
+        <div class="grid-item"><h2>Mål for Løbeklubben</h2>
+        <p> Målet er, at vi bliver bedre løbere og, træner op til at løbe næste CPH marathon. Man må også gerne være med i klubben, selvom man ikke vil løbe marathon! Vi kan altid bruge flere medlemmer i klubben, også dem der joiner for at komme i bedre form eller møde nye mennesker.<br>
+            <br>
+            Et af vores mål er også, at vi får bygget et godt fællesskab op, hvor der er plads til at vi sammen kan tage til forskellige løb, eller ses efter skole og i weekenderne til en enkelt fyraftensøl.
+            </p></div>
+
+            <div class="grid-item1">
+                <div class="card">
+                <img src="thumbnail_niko.jpeg" alt="Nikoline Simonsen" style="width:100%">
+                <h3>Nikoline Simonsen</h3>
+                <p class="title">Markedsføringsøkonom, 1 semester, Løber</p>
+                </div>
+            </div>
+        <div class="grid-item"><h2>De næste events og begivenheder</h2>
+            <p>Næste events/begivenheder for klubben</p>
+            <ul>
+            <li>Soul trail cup 2023, d. 07/01 2023</li>
+            <li>Aarhus Erhvervsakademi løbemesse, d. 13/06 2023</li>
+            <li>Hadsundsløbet – Sportigan, d. 07/09 2023</li>
+            <li>Introduktion til det sunde livstilskursus, d. 12/11 2023</li>
+        </ul>
+        <p>Der vil blive sendt en mail ud til alle medlemmer fra Lars (admin)</p>
+        </div>
+            <div class="grid-item1">
+                <div class="card">
+                <img src="thumbnail_amanda.jpeg" alt="amanda Lauenborg" style="width:100%">
+                <h3>Amanda Lauenborg</h3>
+                <p class="title">Serviceøkonom, 2. semester, Løber</p>
+                </div>
+            </div>
+        <div class="grid-item">
+            <h2>News</h2>
+            <div class="newscolumns">
+            <div class="box1">
+                <h3>Aarhus Halvmarathon</h3>
+                <p>EAAA Løbeklub stillede op til Aarhus Halvmarathon i weekenden. Emilie, Nikoline, Camilla, Carla, Johan, Esben og Nicklas gennemførte alle sammen løbet i en tid på 1:37:59. Stort Tillykke til alle der deltog, vi ses igen næste år!</p>
+            </div>
+            <div class="box2">
+                <h3>Pernille løb ny PR</h3>
+                <p>Efter 4 måneder i verdens bedste løbeklub, har pernille slået ny PR. Det er hvad der sker når vi træner sammen. Giv Pernille en high-five næste gang du ser hende!</p>
+            </div>
+            <div class="box3">
+                <h3>Nye medlemmer!</h3>
+                <p>Nyt semester betyder altid nye medlemmer! hvor er det skønt! Vi vil gerne byde alle nye løbere velkommen i verdens bedste løbeklub. EAAA Runners</p>
+            </div>
+            </div>
+        </div>
+            <div class="grid-item1">
+                <div class="card">
+                <img src="thumbnail_tenna.jpeg" alt="Tenna Degner" style="width:100%">
+                <h3>Tenna Degner</h3>
+                <p class="title">Multimediedesign, 1 semester, Løber</p>
+                </div>
+            </div>
+    </div>
+    <div class="grid-item3">
+        <h2>Andre klubber</h2>
+        <br>
+        <ul class="klubliste">
+            <li class="li1"><a href="/foodclub.html"><img class="klubbillede" src="Madklub.png"></a></li>
+                <li class="li1"><a href=""><img class="klubbillede" src="Cykling.png"></a></li>
+                <li class="li1"><a href=""><img class="klubbillede" src="Genbrug.png"></a></li>
+                <li class="li1"><a href=""><img class="klubbillede" src="Svmmeklub.png"></a></li>
+                <li class="li1"><a href=""><img class="klubbillede" src="Crossfit.png"></a></li>
+                <li class="li1"><a href=""><img class="klubbillede" src="Gaming.png"></a></li>
+                <li class="li1"><a href=""><img class="klubbillede" src="Kunstklub.png"></a></li>
+        </ul>
+    </div>
+
+<img src="footer.png" class="footer">  
+</body>
+</html>
