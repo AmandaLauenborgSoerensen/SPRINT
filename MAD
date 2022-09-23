@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="sprint.css">
+    <title>Cookingclub</title>
+
+</head>
+    <body>
+    <div class="parent">
+        <img class="menu" src="menu.png" />
+        <img class="logo" src="logo.png" />    
+        <img class="medsøg" src="medsøg.png" />
+        <img class="baggrund" src="fuldgrå.png" />
+    </div>
+    </header>
+
+    <!-- Billede -->
+    <div class="container">
+        <img src="thumbnail_Madlavning-1.jpeg" alt="mad" style="width:100%;">
+        <h1 class="top-right">Madklubben</h1>
+        <p class="tid1">Tirsdage kl 19</p>
+        <button class="tilmeldbutton" href="tilmeld">Tilmeld</button>
+    </div>
+
+    <!-- Grid Layout -->
+    <div class="grid-container">
+        <div class="grid-item"><h2>Velkommen til Madklubben</h2>
+            <p>Madklubben byder dig velkommen! Vi mødes og laver mad hver tirsdag kl 19:00. Vi mødes hos en ny i klubben, som får lov til at bestemme hvad der skal laves af mad. Så er der en anden ny, som ligger hus/lejlighed til og sådan fungerer det fra gang til gang.<br><br> Du skal være mere end velkommen til at lade os andre i gruppen opleve mad fra hele verdenen.<br><br>
+                Klubben er til dig, som rigtig gerne vil blive bedre til at lave mad, men til dig, som allerede er mesterkok, kan du være med til at hjælpe de andre med at blive bedre.<br>Ved at du er en del af klubben får du de bedste venner for livet, som du både kan grine, græde og have det hyggeligt sammen med. Derudover får du lov til at møde nye medstuderende venner, som du aldrig har snakket med før eller bare hygge dig sammen med dem fra din klasse. 
+                Samtidig med at du får det bedste samvær og fællesskab, som du kan tænke dig, får du også de lækreste, billigste og fantastiske madopskrifter.<br><br>
+                </p>
+            <br>
+            <button class="tilmeldbutton1" href="tilmeld">Tilmeld</button>
+        </div>
+            <div class="grid-item1"><h3>Medlemmer</h3>
+                <div class="card">
+                <img src="thumbnail_obama.jpeg" alt="Barack Obama" style="width:100%">
+                <h3>Barack Obama</h3>
+                <p class="title">Finansøkonom, 4 semester, Præsident</p>
+                </div>
+            </div>
+        <div class="grid-item"><h2>Mål for Madklubben</h2>
+        <p> Målet med klubben er at du får kendskab til årstidernes frugt og grønt og lærer hvad det vil sige at spise bæredygtigt. Vi bestræber os efter at blive bedre til at lave mad, og vi håber du vil være med på rejsen. <br>
+            <br> 
+            Vi ønsker at komme omrking hele verden i mad. Mexico, Italien, Danmark, Indien, Vietnam, Afrikansk mm.
+            <br><br>
+            Det du også får ud af at være en del af klubben er at op til højtiderne bliver der lavet nogle arrangementer i ferierne eller i weekenderne, hvor du kan være med til at bestemme hvor vi skal spise ude henne ved at du melder madklubbens råd for dem, som har lyst. Men samtidig får du også lidt af det eksklusive og det SU venlige mad, for det bliver der også lagt vægt på. Herudover får du også lov til at udfolde dig kreativt ved kreere, smage dufte med årstidernes farver sammen dine nye venner eller vennerne fra klassen. 
+            </p></div>
+
+            <div class="grid-item1">
+                <div class="card">
+                <img src="thumbnail_bieber1.jpeg" alt="Justin Bieber" style="width:100%">
+                <h3>Justin Bieber</h3>
+                <p class="title">MDU, 1 semester, Foodie</p>
+                </div>
+            </div>
+        <div class="grid-item"><h2>De næste events og begivenheder</h2>
+            <p>Næste events/begivenheder</p>
+            <ul>
+            <li>I Madklubben vil der blive holdt en madlavnings konkurrence, hvor der vil være mulighed at finde nogle små præmie d. 11/03.  </li>
+            <li>Erhvervsakademi Aarhus holder messe, hvor der vil nogen af os som vil have en stand der til messen d. 24/07</li>
+            <li>På skolen, Ringvej Syd 104 vil en af de kendte kokke i hele verdenen komme ud for at holde et foredrag om det med hvordan man kan lave nem & billig mad d. 29/10</li>
+        </ul>
+        <p>Der vil blive sendt en mail ud til alle medlemmer fra Barack (admin)</p>
+        </div>
+            <div class="grid-item1">
+                <div class="card">
+                <img src="thumbnail_nikolaj.jpeg" alt="Prins nikolaj" style="width:100%">
+                <h3>Nikolaj King</h3>
+                <p class="title">Serviceøkonom, 2. semester, Foodie</p>
+                </div>
+            </div>
+        <div class="grid-item">
+            <h2>News</h2>
+            <div class="newscolumns">
+            <div class="box1">
+                <h3>Jannie er DK's Bedste Konditor!</h3>
+                <p>Jannie vandt i DM i konditor konkurrence, så hvis du møder hende på din vej, så må du endelig give en highfive og ønske hende et stort tillykke. Kæmpestort tillykke til Janni med 1. pladsen til DM. </p>
+            </div>
+            <div class="box2">
+                <h3>Madklubben hjælper hjemløse</h3>
+                <p>I madklubben har vi været ude på Aarhus vinterherberg, hvor vi har givet en hånd med til at lave mad til de hjemløse. Vi lavede boller i karry og alle var glade! Det var ikke sidste gang vi gør det!</p>
+            </div>
+            <div class="box3">
+                <h3>Chris McDonald på EAAA</h3>
+                <p>Chris MacDonald har holdt et foredrag om ”den sunde livsstil” på EAAA. Vi er stolte af at have arrangeret begivenheden, spm både var succesfuld og spændende! </p>
+            </div>
+            </div>
+        </div>
+            <div class="grid-item1">
+                <div class="card">
+                <img src="thumbnail_beyonce.jpeg" alt="Beyonce Knowles" style="width:100%">
+                <h3>Beyonce Knowles</h3>
+                <p class="title">MDU, 1 semester, Foodie</p>
+                </div>
+            </div>
+        </div>
+        <div class="grid-item3">
+            <h2>Andre klubber</h2>
+            <br>
+            <ul class="klubliste">
+                <li class="li1"><a href="/lobeklub.html"><img class="klubbillede" src="Runner.png"></a></li>
+                <li class="li1"><a href=""><img class="klubbillede" src="Cykling.png"></a></li>
+                <li class="li1"><a href=""><img class="klubbillede" src="Genbrug.png"></a></li>
+                <li class="li1"><a href=""><img class="klubbillede" src="Svmmeklub.png"></a></li>
+                <li class="li1"><a href=""><img class="klubbillede" src="Crossfit.png"></a></li>
+                <li class="li1"><a href=""><img class="klubbillede" src="Gaming.png"></a></li>
+                <li class="li1"><a href=""><img class="klubbillede" src="Kunstklub.png"></a></li>
+            </ul>
+        </div>
+<img src="footer.png" class="footer">          
+
+</body>
+</html>
